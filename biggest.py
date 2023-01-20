@@ -1,0 +1,5 @@
+a = int(input("enter first number:"))
+b = int(input("enter first number:"))
+c = int(input("enter first number:"))
+print("biggest number is:")
+print(max(a, b, c))

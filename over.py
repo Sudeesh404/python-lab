@@ -1,0 +1,1 @@
+#prompt user for an integer.for val>100 ,store over instead
